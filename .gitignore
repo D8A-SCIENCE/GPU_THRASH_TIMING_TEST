@@ -1,0 +1,11 @@
+# CIFAR10 dataset directory
+data/
+
+# Log files
+/sciclone/geograd/GPU_THRASH_LOGS/
+*.LOG
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
